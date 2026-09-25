@@ -8,10 +8,10 @@ title: "Projects 📋"
 Indicators on **childhood and adolescence** for the NiñezYA coalition. I was part of the team that built them from administrative and survey data and kept them updated across three releases ([code on GitHub](https://github.com/dfmendivelso10/Ninez-YA) · [credits](https://enflujo.github.io/imagina-ninezya/creditos/)).
 
 ### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/)
-**22+ maternal and child health indicators** for 1,101 municipalities, made for Fundación Éxito. I worked on extracting and cleaning the administrative data behind them.
+**22+ maternal and child health indicators** for 1,101 municipalities, made for Fundación Éxito. I worked on extracting and cleaning the administrative data behind them ([credits](https://imagina.uniandes.edu.co/especiales/maternoinfantil/creditos/)).
 
 ### [Prevalence and Nature of CSEA: Interactive Data Tool](https://imagina.uniandes.edu.co/especiales/prevalence-csea/)
-Data on **child sexual exploitation and abuse in 17 countries**, from the Violence Against Children and Youth Surveys (VACS). I helped harmonize the microdata that feeds the tool.
+Data on **child sexual exploitation and abuse in 17 countries**, from the Violence Against Children and Youth Surveys (VACS). I helped harmonize the microdata that feeds the tool ([credits](https://imagina.uniandes.edu.co/especiales/prevalence-csea/#creditos)).
 
 ---
 
