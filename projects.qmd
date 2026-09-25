@@ -5,7 +5,7 @@ title: "Projects 📋"
 ## Tools & Dashboards 🛠️
 
 ### [SIYA: Sistema de Indicadores de los YA](https://ninezya.org/siya/)
-Indicators on **childhood and adolescence** for the NiñezYA coalition. I was part of the team that built them from administrative and survey data and kept them updated across three releases ([code on GitHub](https://github.com/dfmendivelso10/Ninez-YA)).
+Indicators on **childhood and adolescence** for the NiñezYA coalition. I was part of the team that built them from administrative and survey data and kept them updated across three releases ([code on GitHub](https://github.com/dfmendivelso10/Ninez-YA) · [credits](https://enflujo.github.io/imagina-ninezya/creditos/)).
 
 ### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/)
 **22+ maternal and child health indicators** for 1,101 municipalities, made for Fundación Éxito. I worked on extracting and cleaning the administrative data behind them.
