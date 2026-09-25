@@ -2,7 +2,7 @@
 title: "Experience 💼 🎓"
 ---
 
-I'm currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I support applied research on **childhood, health, and violence prevention**, from managing and analyzing the data to preparing results for policy audiences.
+I'm currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I support applied research on **childhood, health, and violence prevention**, from managing and analyzing data to preparing results for policy audiences.
 
 Beyond research, I've been a **Teaching Assistant** in Economic Analysis of Public Policy (M.A. level) for four semesters, and I've led **technical workshops** with government teams and civil society organizations. I document my work carefully so that other teams can reuse it and so that the evidence can inform policy decisions.
 
