@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Daniel Mendivelso"
+  site-url: https://dfmendivelso10.github.io/daniel-portfolio/
+  repo-url: https://github.com/dfmendivelso10/daniel-portfolio
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/dfmendivelso10
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/daniel-mendivelso-9a7251139
+        aria-label: LinkedIn
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false

@@ -1,0 +1,34 @@
+---
+title: "Projects 📋"
+---
+
+## Data Products & Dashboards 📊
+
+### [SIYA: Sistema de Indicadores de los YA](https://ninezya.org/siya/)
+An **interactive monitoring system** tracking key indicators on childhood and adolescence in Colombia for the NiñezYA coalition, built from multiple administrative and survey sources across three successive releases.
+
+### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/)
+A monitoring platform tracking **22+ health indicators across 1,101 Colombian municipalities**, developed for Fundación Éxito.
+
+### [Prevalence and Nature of CSEA: Interactive Data Tool](https://imagina.uniandes.edu.co/especiales/prevalence-csea/)
+An interactive tool visualizing **Violence Against Children and Youth Survey (VACS)** data from 17 countries on patterns of child sexual exploitation and abuse.
+
+---
+
+## Code 🛠️
+
+### [Niñez YA](https://github.com/dfmendivelso10/Ninez-YA)
+R scripts and data pipeline (raw data → processing → outputs) behind the NiñezYA coalition's monitoring dashboard.
+
+### [Big Data & Machine Learning Problem Sets](https://github.com/dfmendivelso10/Repositorio_Big_Data_2022_Uniandes)
+Applied machine learning problem sets in R from the Big Data & Machine Learning course at Universidad de los Andes.
+
+---
+
+## Working Papers in Preparation 📝
+
+### Intergenerational transmission of childhood adversity in Colombia
+A study of **163 caregiver–child dyads** on how Adverse Childhood Experiences are transmitted to child socioemotional outcomes, using mediation analysis within a structural equation framework. *Co-author, IMAGINA Research Center.*
+
+### Prevalence and measurement of childhood adversity in Bogotá public services
+A prevalence study of **346 adolescents and young adults across 18 localities**, survey-weighted to represent 1.8M residents, introducing a participatory measurement instrument. *Co-author, IMAGINA Research Center.*
