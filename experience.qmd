@@ -2,7 +2,7 @@
 title: "Experience 💼 🎓"
 ---
 
-I am currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I build indicator systems, co-lead experimental research, and own analytical pipelines from raw data to estimation.
+I am currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I build and curate the data behind public indicator systems, co-lead experimental research, and own analytical pipelines from raw data to estimation.
 
 Most of my work sits between research and policy: turning administrative and survey microdata into evidence that government counterparts, civil society, and research teams can use and reproduce.
 
@@ -10,7 +10,7 @@ Most of my work sits between research and policy: turning administrative and sur
 
 - **Research Professional**\
   *IMAGINA Research Center, Universidad de los Andes \| Jun 2023 – Present*\
-  Built and maintained the **SIYA indicator system** for the NiñezYA coalition and the **CUBOS RIPS** administrative health database (50M+ records). Co-led the design of a **pre-registered RCT** on violence detection and social norms. Estimated **SEM and mediation models** for working papers on childhood adversity.
+  Build and maintain the **indicator data that feeds SIYA**, the NiñezYA coalition's monitoring system, and the **CUBOS RIPS** administrative health database (50M+ records). Co-led the design of a **pre-registered RCT** on violence detection and social norms. Estimated **SEM and mediation models** for working papers on childhood adversity.
 
 - **Policy Data Analyst and Consultant**\
   *Secretaría de Integración Social, Bogotá District Government \| Jun 2025 – Feb 2026*\
@@ -18,7 +18,7 @@ Most of my work sits between research and policy: turning administrative and sur
 
 - **Research Analyst**\
   *Vice-Presidency of Research & Creation, Universidad de los Andes \| Mar 2022 – May 2023*\
-  Designed the **Theory of Change, KPIs, and cost-effectiveness analysis** for the Juanfe Foundation's 360 model, scoped the **Maternal and Child Health Dashboard** for Fundación Éxito, and harmonized **VACS microdata across 17 countries** (CDC- and USAID-sponsored).
+  Designed the **Theory of Change, KPIs, and cost-effectiveness analysis** for the Juanfe Foundation's 360 model, processed the administrative data behind Fundación Éxito's **Maternal and Child Health Dashboard**, and harmonized **VACS microdata across 17 countries** (CDC- and USAID-sponsored).
 
 - **Research Assistant Intern**\
   *Alberto Lleras Camargo School of Government, Universidad de los Andes \| Aug 2021 – Feb 2022*\
