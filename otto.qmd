@@ -4,4 +4,6 @@ title: "Otto 🐾"
 
 ![](otto.png){fig-alt="Otto, a white miniature schnauzer" width="360px" fig-align="center"}
 
-This is Otto.
+::: {style="text-align: center;"}
+This is Otto. He says *"Hello World"*.
+:::
