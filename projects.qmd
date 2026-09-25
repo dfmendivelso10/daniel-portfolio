@@ -5,23 +5,23 @@ title: "Projects 📋"
 ## Tools & Dashboards 🛠️
 
 ### [SIYA: Sistema de Indicadores de los YA](https://ninezya.org/siya/)
-A **monitoring system** of childhood and adolescence indicators for the NiñezYA coalition, built as a collaborative team effort. I participated in **creating, constructing, extracting, and feeding the indicators** from multiple administrative and survey sources across three releases, and in documenting a [reproducible pipeline](https://github.com/dfmendivelso10/Ninez-YA).
+Indicators on **childhood and adolescence** for the NiñezYA coalition. I was part of the team that built them from administrative and survey data and kept them updated across three releases ([code on GitHub](https://github.com/dfmendivelso10/Ninez-YA)).
 
 ### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/)
-A **monitoring platform** tracking 22+ health indicators across 1,101 Colombian municipalities for Fundación Éxito, built as a collaborative team effort. I participated in **building the indicators** from large-scale administrative data, from extraction and cleaning to feeding the platform.
+**22+ maternal and child health indicators** for 1,101 municipalities, made for Fundación Éxito. I worked on extracting and cleaning the administrative data behind them.
 
 ### [Prevalence and Nature of CSEA: Interactive Data Tool](https://imagina.uniandes.edu.co/especiales/prevalence-csea/)
-An **interactive tool** on child sexual exploitation and abuse in 17 countries, built as a collaborative team effort. I participated in **extracting and harmonizing** the Violence Against Children and Youth Survey (VACS) microdata and feeding the tool with data and content.
+Data on **child sexual exploitation and abuse in 17 countries**, from the Violence Against Children and Youth Surveys (VACS). I helped harmonize the microdata that feeds the tool.
 
 ---
 
 ## Working Papers & Publications 📝
 
 ### Intergenerational transmission of childhood adversity in Colombia
-A **working paper in preparation** studying 163 caregiver–child dyads on how Adverse Childhood Experiences are transmitted to child socioemotional outcomes, using mediation analysis within a structural equation framework. I am a co-author at the IMAGINA Research Center.
+A **working paper in preparation** studying 163 caregiver–child dyads on how Adverse Childhood Experiences are transmitted to child socioemotional outcomes, using mediation analysis within a structural equation framework. Co-author.
 
 ### Prevalence and measurement of childhood adversity in Bogotá public services
-A **working paper in preparation** on 346 adolescents and young adults across 18 localities, survey-weighted to represent 1.8M residents, introducing a participatory measurement instrument. I am a co-author at the IMAGINA Research Center.
+A **working paper in preparation** on 346 adolescents and young adults across 18 localities, survey-weighted to represent 1.8M residents, introducing a participatory measurement instrument. Co-author.
 
 ### Prevalence and Nature of Child Sexual Exploitation and Abuse
 A **technical report (in submission)** based on VACS microdata from 17 countries. I assembled and maintained the research datasets behind it.

@@ -18,6 +18,6 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 # About Me
 
-I am Daniel, a **Colombian applied economist** with **4+ years of experience** in **impact evaluation, statistics, econometrics, and data analytics**. I clean, manage, analyze, and document large administrative and survey datasets in **Stata, R, Python, and SQL**, and apply **machine learning, NLP, and large language models** inside automated analysis pipelines, working on **childhood and adolescence, violence prevention, and public health** in Colombia and Latin America.
+I'm Daniel, an **applied economist from Colombia**. For the past four years I've worked with **administrative and survey data** on childhood, violence prevention, and public health, mostly at the **IMAGINA Research Center** (Universidad de los Andes) and with the **Bogotá District Government**. I work in **Stata, R, Python, and SQL**, and I have used **large language models** to classify and summarize large volumes of policy documents.
 
-I care about **reproducible, well-documented research**: code under version control, analytical decisions written down, and evidence that reaches the **government counterparts and civil society** who make policy decisions.
+Most of my work ends up with government teams and civil society organizations, so I put real effort into clean code and into documenting how each number was built. I'm finishing an M.A. in Economics at Los Andes.

@@ -2,27 +2,27 @@
 title: "Experience 💼 🎓"
 ---
 
-I'm currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I contribute data and content to public indicator dashboards as part of collaborative teams, co-lead experimental research, and own analytical pipelines from raw data to estimation.
+I'm a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**. I work on a pre-registered RCT on violence detection and social norms, on working papers about childhood adversity, and on the data behind several public indicator dashboards.
 
-Beyond the data work, I care about **evidence-to-policy**: I work with government counterparts, civil society, and research teams so that results are **documented, reproducible, and usable** for decisions. I also teach as a Teaching Assistant in Economic Analysis of Public Policy at the M.A. level.
+I'm also a Teaching Assistant for **Economic Analysis of Public Policy**, an M.A. course at the School of Government.
 
 ## Experience (Brief Overview)
 
 - **Research Professional**\
   *IMAGINA Research Center, Universidad de los Andes \| Jun 2023 – Present*\
-  Focus on **creating, feeding, and documenting indicators** for public dashboards, a **pre-registered RCT** on violence detection and social norms, and **SEM and mediation models** on childhood adversity.
+  Co-led the design of a **pre-registered RCT** on violence detection and social norms, estimated **SEM and mediation models** for papers on childhood adversity, and built **indicators for public dashboards**.
 
 - **Policy Data Analyst and Consultant**\
   *Secretaría de Integración Social, Bogotá District Government \| Jun 2025 – Feb 2026*\
-  Led a team evaluating **51 district social policies**, applying **large language models** in automated Python pipelines and facilitating workshops across 20 localities.
+  Led a team of 4–6 people reviewing **51 district social policies**. Used **large language models** in a Python pipeline to classify and summarize policy documents, and ran workshops with stakeholders in 20 localities.
 
 - **Research Analyst**\
   *Vice-Presidency of Research & Creation, Universidad de los Andes \| Mar 2022 – May 2023*\
-  Worked on **Theory of Change and cost-effectiveness analysis** for social programs and harmonized **VACS microdata across 17 countries** (CDC- and USAID-sponsored).
+  Designed a **Theory of Change and a cost-effectiveness analysis** for the Juanfe Foundation, and harmonized **VACS survey data from 17 countries** (CDC and USAID).
 
 - **Research Assistant Intern**\
   *Alberto Lleras Camargo School of Government, Universidad de los Andes \| Aug 2021 – Feb 2022*\
-  Synthesized evidence and analyzed data on **teenage pregnancy, child protection, and violence** against children and women.
+  Reviewed causal evidence and coded qualitative data on **teenage pregnancy, child protection, and violence** against children and women.
 
 ## Education
 

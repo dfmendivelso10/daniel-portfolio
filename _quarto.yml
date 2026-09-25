@@ -11,6 +11,8 @@ website:
         text: Experience
       - href: projects.qmd
         text: Projects
+      - href: otto.qmd
+        text: Otto
     right:
       - icon: github
         href: https://github.com/dfmendivelso10
