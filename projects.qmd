@@ -1,21 +1,21 @@
 ---
-title: "Projects 📋"
+title: "Projects"
 ---
 
-## Tools & Dashboards 🛠️
+## Tools & Dashboards
 
-### [SIYA: Sistema de Indicadores de los YA](https://ninezya.org/siya/)
+### [SIYA: Sistema de Indicadores de los YA](https://ninezya.org/siya/) (2024)
 Indicators on **childhood and adolescence** for the NiñezYA coalition. I was part of the team that built them from administrative and survey data and kept them updated across three releases ([code on GitHub](https://github.com/dfmendivelso10/Ninez-YA) · [credits](https://enflujo.github.io/imagina-ninezya/creditos/)).
 
-### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/)
+### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/) (2023)
 **22+ maternal and child health indicators** for 1,101 municipalities, made for Fundación Éxito. I worked on extracting and cleaning the administrative data behind them ([credits](https://imagina.uniandes.edu.co/especiales/maternoinfantil/creditos/)).
 
-### [Prevalence and Nature of CSEA: Interactive Data Tool](https://imagina.uniandes.edu.co/especiales/prevalence-csea/)
+### [Prevalence and Nature of CSEA: Interactive Data Tool](https://imagina.uniandes.edu.co/especiales/prevalence-csea/) (2025)
 Data on **child sexual exploitation and abuse in 17 countries**, from the Violence Against Children and Youth Surveys (VACS). I helped harmonize the microdata that feeds the tool ([credits](https://imagina.uniandes.edu.co/especiales/prevalence-csea/#creditos)).
 
 ---
 
-## Working Papers & Publications 📝
+## Working Papers & Reports
 
 ### Intergenerational transmission of childhood adversity in Colombia
 A **working paper in preparation** studying 163 caregiver–child dyads on how Adverse Childhood Experiences are transmitted to child socioemotional outcomes, using mediation analysis within a structural equation framework. Co-author.
