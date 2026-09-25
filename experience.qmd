@@ -2,7 +2,7 @@
 title: "Experience 💼 🎓"
 ---
 
-I'm currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I build and curate the data behind public indicator systems, co-lead experimental research, and own analytical pipelines from raw data to estimation.
+I'm currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I contribute data and content to public indicator dashboards as part of collaborative teams, co-lead experimental research, and own analytical pipelines from raw data to estimation.
 
 Beyond the data work, I care about **evidence-to-policy**: I work with government counterparts, civil society, and research teams so that results are **documented, reproducible, and usable** for decisions. I also teach as a Teaching Assistant in Economic Analysis of Public Policy at the M.A. level.
 
@@ -10,7 +10,7 @@ Beyond the data work, I care about **evidence-to-policy**: I work with governmen
 
 - **Research Professional**\
   *IMAGINA Research Center, Universidad de los Andes \| Jun 2023 – Present*\
-  Focus on **indicator data** for public dashboards, a **pre-registered RCT** on violence detection and social norms, and **SEM and mediation models** on childhood adversity.
+  Focus on **feeding public dashboards** with data, text, and editing, a **pre-registered RCT** on violence detection and social norms, and **SEM and mediation models** on childhood adversity.
 
 - **Policy Data Analyst and Consultant**\
   *Secretaría de Integración Social, Bogotá District Government \| Jun 2025 – Feb 2026*\

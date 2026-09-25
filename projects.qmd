@@ -4,16 +4,16 @@ title: "Projects 📋"
 
 ## Data Behind Public Dashboards 📊
 
-I did not design these platforms. I am responsible for the **data that feeds them**: I build, curate, and generate the indicators and datasets they display.
+These platforms are **collaborative team efforts**. I contributed to **feeding them with content**: building and curating the data, writing the accompanying text, and editing what gets published.
 
 ### [SIYA: Sistema de Indicadores de los YA](https://ninezya.org/siya/)
-A monitoring system of childhood and adolescence indicators in Colombia for the NiñezYA coalition. **I build and maintain the indicator data** behind it, from multiple administrative and survey sources, across three successive releases.
+A monitoring system of childhood and adolescence indicators in Colombia for the NiñezYA coalition. I contributed the **indicator data, text, and content editing** across three successive releases, drawing on multiple administrative and survey sources.
 
 ### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/)
-A monitoring platform for Fundación Éxito tracking **22+ health indicators across 1,101 Colombian municipalities**. **I cleaned and processed the administrative data** that feeds it.
+A monitoring platform for Fundación Éxito tracking **22+ health indicators across 1,101 Colombian municipalities**. I contributed to **feeding it with data and content**, cleaning and processing the administrative sources behind the indicators.
 
 ### [Prevalence and Nature of CSEA: Interactive Data Tool](https://imagina.uniandes.edu.co/especiales/prevalence-csea/)
-An interactive tool on patterns of child sexual exploitation and abuse in 17 countries. **I assembled and maintain the Violence Against Children and Youth Survey (VACS) datasets** it displays.
+An interactive tool on patterns of child sexual exploitation and abuse in 17 countries. I contributed to **feeding it with data and content**, assembling the Violence Against Children and Youth Survey (VACS) datasets it displays.
 
 ---
 
