@@ -14,9 +14,9 @@ $code-block-bg: theme-fade($body-bg, $body-color, 5%);
 $code-bg: $code-block-bg;
 
 $font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
 
-
-
+$font-family-sans-serif: 'Source Sans Pro', sans-serif;
 
 /*-- scss:rules --*/
 

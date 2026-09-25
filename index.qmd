@@ -1,26 +1,23 @@
 ---
 title: "Daniel Fernando Mendivelso"
-subtitle: "Research Professional, IMAGINA Research Center, Universidad de los Andes"
-about:
-  template: jolla
+subtitle: "Research Professional, IMAGINA Research Center – Universidad de los Andes"
+image: profile.jpg
+image-alt: "Photo of Daniel Mendivelso"
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
   links:
     - icon: github
-      text: GitHub
+      text: Github
       href: https://github.com/dfmendivelso10
       target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/daniel-mendivelso-9a7251139
       target: _blank
-    - icon: envelope
-      text: Email
-      href: mailto:df.mendivelso10@gmail.com
+      href: https://www.linkedin.com/in/daniel-mendivelso-9a7251139
 ---
 
 # About Me
 
-I am a **Colombian applied economist** with **4+ years of experience** in **impact evaluation, statistics, econometrics, and data analytics**. I hold dual B.A. degrees in Economics and in Government and Public Affairs from Universidad de los Andes, where I am completing an M.A. in Economics.
+I am Daniel, a **Colombian applied economist** with **4+ years of experience** in **impact evaluation, statistics, econometrics, and data analytics**. I clean, manage, analyze, and document large administrative and survey datasets in **Stata, R, Python, and SQL**, and apply **machine learning, NLP, and large language models** inside automated analysis pipelines, working on **childhood and adolescence, violence prevention, and public health** in Colombia and Latin America.
 
-My work supports **evidence-to-policy** decisions with government counterparts across human development: **public health, education, nutrition, childhood and adolescence, and violence prevention**. I clean, manage, analyze, and document large administrative and survey datasets in **Stata, R, Python, and SQL**, and I apply **machine learning, NLP, and large language models** inside automated analysis pipelines.
-
-I care about **reproducible, well-documented research**: code under version control, analytical decisions written down, and results that reach the people who allocate resources.
+I care about **reproducible, well-documented research**: code under version control, analytical decisions written down, and evidence that reaches the **government counterparts and civil society** who make policy decisions.

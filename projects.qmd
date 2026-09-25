@@ -2,35 +2,26 @@
 title: "Projects 📋"
 ---
 
-## Data Behind Public Dashboards 📊
-
-These platforms are **collaborative team efforts**. I participated in the **creation and construction of indicators**, **data extraction**, **feeding the platforms** with data, text, and edits, and the **documentation and reproducibility** of the pipelines behind them.
+## Tools & Dashboards 🛠️
 
 ### [SIYA: Sistema de Indicadores de los YA](https://ninezya.org/siya/)
-A monitoring system of childhood and adolescence indicators in Colombia for the NiñezYA coalition. I participated in **creating and constructing the indicators**, extracting them from multiple administrative and survey sources, and feeding and documenting the system across three successive releases.
+A **monitoring system** of childhood and adolescence indicators for the NiñezYA coalition, built as a collaborative team effort. I participated in **creating, constructing, extracting, and feeding the indicators** from multiple administrative and survey sources across three releases, and in documenting a [reproducible pipeline](https://github.com/dfmendivelso10/Ninez-YA).
 
 ### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/)
-A monitoring platform for Fundación Éxito tracking **22+ health indicators across 1,101 Colombian municipalities**. I participated in **building the indicators** from large-scale administrative data, from extraction and cleaning to feeding the platform.
+A **monitoring platform** tracking 22+ health indicators across 1,101 Colombian municipalities for Fundación Éxito, built as a collaborative team effort. I participated in **building the indicators** from large-scale administrative data, from extraction and cleaning to feeding the platform.
 
 ### [Prevalence and Nature of CSEA: Interactive Data Tool](https://imagina.uniandes.edu.co/especiales/prevalence-csea/)
-An interactive tool on patterns of child sexual exploitation and abuse in 17 countries. I participated in **extracting and harmonizing** the Violence Against Children and Youth Survey (VACS) microdata and feeding the tool with data and content.
+An **interactive tool** on child sexual exploitation and abuse in 17 countries, built as a collaborative team effort. I participated in **extracting and harmonizing** the Violence Against Children and Youth Survey (VACS) microdata and feeding the tool with data and content.
 
 ---
 
-## Code 🛠️
-
-### [Niñez YA](https://github.com/dfmendivelso10/Ninez-YA)
-R scripts and data pipeline (raw data → processing → outputs) behind the NiñezYA coalition's monitoring dashboard.
-
-### [Big Data & Machine Learning Problem Sets](https://github.com/dfmendivelso10/Repositorio_Big_Data_2022_Uniandes)
-Applied machine learning problem sets in R from the Big Data & Machine Learning course at Universidad de los Andes.
-
----
-
-## Working Papers in Preparation 📝
+## Working Papers & Publications 📝
 
 ### Intergenerational transmission of childhood adversity in Colombia
-A study of **163 caregiver–child dyads** on how Adverse Childhood Experiences are transmitted to child socioemotional outcomes, using mediation analysis within a structural equation framework. *Co-author, IMAGINA Research Center.*
+A **working paper in preparation** studying 163 caregiver–child dyads on how Adverse Childhood Experiences are transmitted to child socioemotional outcomes, using mediation analysis within a structural equation framework. I am a co-author at the IMAGINA Research Center.
 
 ### Prevalence and measurement of childhood adversity in Bogotá public services
-A prevalence study of **346 adolescents and young adults across 18 localities**, survey-weighted to represent 1.8M residents, introducing a participatory measurement instrument. *Co-author, IMAGINA Research Center.*
+A **working paper in preparation** on 346 adolescents and young adults across 18 localities, survey-weighted to represent 1.8M residents, introducing a participatory measurement instrument. I am a co-author at the IMAGINA Research Center.
+
+### Prevalence and Nature of Child Sexual Exploitation and Abuse
+A **technical report (in submission)** based on VACS microdata from 17 countries. I assembled and maintained the research datasets behind it.
