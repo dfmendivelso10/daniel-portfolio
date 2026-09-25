@@ -4,7 +4,7 @@ title: "Experience 💼 🎓"
 
 I'm a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**. I work on a pre-registered RCT on violence detection and social norms, on working papers about childhood adversity, and on the data behind several public indicator dashboards.
 
-I'm also a Teaching Assistant for **Economic Analysis of Public Policy**, an M.A. course at the School of Government.
+Beyond the code, I've been a **Teaching Assistant** in Economic Analysis of Public Policy (M.A. level) for four semesters, and I've run **technical workshops** with government teams and civil society organizations. I document my pipelines and codebooks so other teams can pick them up and reuse them, because well-documented work is how evidence actually reaches policy decisions.
 
 ## Experience (Brief Overview)
 

@@ -18,6 +18,6 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 # About Me
 
-I'm Daniel, an **applied economist from Colombia**. For the past four years I've worked with **administrative and survey data** on childhood, violence prevention, and public health, mostly at the **IMAGINA Research Center** (Universidad de los Andes) and with the **Bogotá District Government**. I work in **Stata, R, Python, and SQL**, and I have used **large language models** to classify and summarize large volumes of policy documents.
+I'm Daniel, a Colombian **development economist** with **4+ years of experience** working at the intersection of **data and public policy**. I've worked on **health, childhood and adolescence, and violence prevention**, mostly at the **IMAGINA Research Center** (Universidad de los Andes) and with the **Bogotá District Government**. I work in **Stata, R, Python, and SQL**, and I have used **large language models** to classify and summarize large volumes of policy documents.
 
 Most of my work ends up with government teams and civil society organizations, so I put real effort into clean code and into documenting how each number was built. I'm finishing an M.A. in Economics at Los Andes.
