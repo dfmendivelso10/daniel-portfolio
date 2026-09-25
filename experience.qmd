@@ -2,38 +2,40 @@
 title: "Experience 💼 🎓"
 ---
 
-I am currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I build and curate the data behind public indicator systems, co-lead experimental research, and own analytical pipelines from raw data to estimation.
+I'm currently a **Research Professional at the [IMAGINA Research Center](https://imagina.uniandes.edu.co/), Universidad de los Andes**, where I build and curate the data behind public indicator systems, co-lead experimental research, and own analytical pipelines from raw data to estimation.
 
-Most of my work sits between research and policy: turning administrative and survey microdata into evidence that government counterparts, civil society, and research teams can use and reproduce.
+Beyond the data work, I care about **evidence-to-policy**: I work with government counterparts, civil society, and research teams so that results are **documented, reproducible, and usable** for decisions. I also teach as a Teaching Assistant in Economic Analysis of Public Policy at the M.A. level.
+
+My long-term goal is to strengthen how public institutions in Latin America **produce and use data** to design better social policy.
 
 ## Experience (Brief Overview)
 
 - **Research Professional**\
   *IMAGINA Research Center, Universidad de los Andes \| Jun 2023 – Present*\
-  Build and maintain the **indicator data that feeds SIYA**, the NiñezYA coalition's monitoring system, and the **CUBOS RIPS** administrative health database (50M+ records). Co-led the design of a **pre-registered RCT** on violence detection and social norms. Estimated **SEM and mediation models** for working papers on childhood adversity.
+  Focus on **indicator data** for public dashboards, a **pre-registered RCT** on violence detection and social norms, and **SEM and mediation models** on childhood adversity.
 
 - **Policy Data Analyst and Consultant**\
   *Secretaría de Integración Social, Bogotá District Government \| Jun 2025 – Feb 2026*\
-  Led a team of 4–6 professionals evaluating **51 district social policies**. Applied **large language models** within an automated Python pipeline to extract, classify, and synthesize unstructured documents, and facilitated technical workshops with stakeholders across 20 localities.
+  Led a team evaluating **51 district social policies**, applying **large language models** in automated Python pipelines and facilitating workshops across 20 localities.
 
 - **Research Analyst**\
   *Vice-Presidency of Research & Creation, Universidad de los Andes \| Mar 2022 – May 2023*\
-  Designed the **Theory of Change, KPIs, and cost-effectiveness analysis** for the Juanfe Foundation's 360 model, processed the administrative data behind Fundación Éxito's **Maternal and Child Health Dashboard**, and harmonized **VACS microdata across 17 countries** (CDC- and USAID-sponsored).
+  Worked on **Theory of Change and cost-effectiveness analysis** for social programs and harmonized **VACS microdata across 17 countries** (CDC- and USAID-sponsored).
 
 - **Research Assistant Intern**\
   *Alberto Lleras Camargo School of Government, Universidad de los Andes \| Aug 2021 – Feb 2022*\
-  Synthesized causal evidence and analyzed qualitative data on teenage pregnancy, child protection, and violence against children and women.
-
-- **Teaching Assistant, Economic Analysis of Public Policy** (M.A. level)\
-  *Alberto Lleras Camargo School of Government, Universidad de los Andes \| Aug 2024 – Present*
+  Synthesized evidence and analyzed data on **teenage pregnancy, child protection, and violence** against children and women.
 
 ## Education
 
--   **M.A. in Economics**\
-    Universidad de los Andes \| Bogotá, Colombia \| *Expected 2026*
+-   **M.A. in Economics** (in progress)\
+    Universidad de los Andes \| Bogotá, Colombia\
+    *Focus on Big Data & Machine Learning and Topics in AI & Economics*
 
 -   **B.A. in Economics**\
-    Universidad de los Andes \| Bogotá, Colombia \| *2025*
+    Universidad de los Andes \| Bogotá, Colombia\
+    *Graduate-level coursework in Advanced Econometrics and Impact Evaluation*
 
 -   **B.A. in Government and Public Affairs**\
-    Universidad de los Andes \| Bogotá, Colombia \| *2024*
+    Universidad de los Andes \| Bogotá, Colombia\
+    *Focus on Public Policy Analysis & Evaluation*
