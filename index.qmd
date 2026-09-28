@@ -18,6 +18,8 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 # About Me
 
-I'm Daniel, a Colombian development economist with 4+ years of experience in research and applied analysis, particularly at the intersection of data and public policy. My work centers on human development and social protection, especially health, early childhood, youth, and violence prevention. I have developed much of this experience at the IMAGINA Research Center (Universidad de los Andes), the Bogotá District Government, and in collaboration with civil society organizations. I work with Stata, R, Python, and SQL, and I have used large language models to classify and summarize large volumes of policy documents.
+I'm Daniel, a Colombian development economist with five years of experience in applied research and data analysis for public policy. My work focuses on human development and social protection, especially health, early childhood and youth, and violence prevention.
 
-Most of my work is used directly by government teams and civil society organizations, so I place special emphasis on ensuring that my analyses are transparent, reproducible, and easy to understand. I'm currently completing an M.A. in Economics at Universidad de los Andes.
+Much of this experience comes from the IMAGINA Research Center at Universidad de los Andes, where I work closely with research teams, civil society organizations, and government partners. I have supported randomized evaluations from instrument design to analysis, including a pre-registered trial on violence detection and social norms, conducted impact evaluations, and developed theories of change and indicator systems for social policy monitoring. I work with Stata, R, Python, and SQL, and have built pipelines with large language models to classify and summarize large volumes of policy documents.
+
+I prioritize analyses that are transparent, reproducible, and easy to understand. I'm currently completing an M.A. in Economics at Universidad de los Andes.
