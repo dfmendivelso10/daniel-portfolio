@@ -18,8 +18,13 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 # About Me
 
-I'm Daniel, a Colombian development economist with five years of experience in applied research and data analysis for public policy. My work focuses on human development and social protection, especially health, early childhood and youth, and violence prevention.
+I’m Daniel, a Colombian development economist with five years of experience in applied research and data analysis for public policy. My work focuses on human development and social protection, especially health, early childhood and youth, and violence prevention.
 
-Much of this experience comes from the [IMAGINA Research Center](https://imagina.uniandes.edu.co/) at Universidad de los Andes, where I work closely with research teams, civil society organizations, and government partners. I have supported randomized evaluations from instrument design to analysis, including a pre-registered trial on violence detection and social norms, conducted impact evaluations, and developed theories of change and indicator systems for social policy monitoring. I work with Stata, R, Python, and SQL, writing clean, well-documented code to manage and analyze large administrative and survey datasets, estimate econometric models, and build Power BI dashboards. I have also built pipelines with large language models to classify and summarize large volumes of policy documents.
+Much of this experience comes from the [IMAGINA Research Center](https://imagina.uniandes.edu.co/) at Universidad de los Andes, where I collaborate with research teams, civil society organizations, and government partners.
 
-I prioritize analyses that are transparent, reproducible, and easy to understand. I'm currently completing an M.A. in Economics at Universidad de los Andes.
+I have supported randomized evaluations from instrument design to analysis, including a pre-registered trial on violence detection and social norms. I have conducted impact evaluations and developed theories of change and indicator systems for social policy monitoring, such as the system the NiñezYA coalition uses to track childhood and adolescence in Colombia.
+
+Using Stata, R, Python, and SQL, I write clean, well-documented code to manage and analyze large administrative and survey datasets, estimate econometric models, and build Power BI dashboards. More recently, I have built pipelines with large language models to classify and summarize large volumes of policy documents.
+
+I prioritize analyses that are transparent, reproducible, and easy to understand. I’m currently completing an M.A. in Economics at Universidad de los Andes.
+
