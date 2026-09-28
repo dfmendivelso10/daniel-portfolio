@@ -5,23 +5,23 @@ title: "Projects"
 ## Tools & Dashboards
 
 ### [SIYA: Sistema de Indicadores de los YA](https://ninezya.org/siya/) (2024)
-Monitoring system that tracks indicators of **childhood and adolescence** for the NiñezYA coalition, including education, health, nutrition, and violence and security. I designed and maintained the indicator system across three releases, building indicators from administrative and survey data with reproducible **R and Python** code under **Git** version control ([code on GitHub](https://github.com/dfmendivelso10/Ninez-YA) · [credits](https://enflujo.github.io/imagina-ninezya/creditos/)).
+Monitoring system that tracks indicators of childhood and adolescence for the NiñezYA coalition, including education, health, nutrition, and violence and security. I designed and maintained the indicator system across three releases, building indicators from administrative and survey data with reproducible R and Python code under Git version control (see [code on GitHub](https://github.com/dfmendivelso10/Ninez-YA) and [credits](https://enflujo.github.io/imagina-ninezya/creditos/)).
 
 ### [Maternal and Child Health Dashboard](https://imagina.uniandes.edu.co/especiales/maternoinfantil/) (2023)
-Impact measurement system for more than **22 maternal and child health indicators**, with baselines and targets, across 1,101 Colombian municipalities, developed for Fundación Éxito. I scoped and designed the indicator system, and cleaned and managed the large administrative datasets supporting it ([credits](https://imagina.uniandes.edu.co/especiales/maternoinfantil/creditos/)).
+Impact measurement system for more than 22 maternal and child health indicators, with baselines and targets, across 1,101 Colombian municipalities, developed for Fundación Éxito. I scoped and designed the indicator system, and cleaned and managed the large administrative datasets supporting it (see [credits](https://imagina.uniandes.edu.co/especiales/maternoinfantil/creditos/)).
 
 ### [Prevalence and Nature of CSEA: Interactive Data Tool](https://imagina.uniandes.edu.co/especiales/prevalence-csea/) (2025)
-Interactive tool on **child sexual exploitation and abuse in 17 countries**, based on the Violence Against Children and Youth Surveys (VACS). I coded, cleaned, and harmonized the multi-country microdata that powers the tool, and co-built it ([credits](https://imagina.uniandes.edu.co/especiales/prevalence-csea/#creditos)).
+Interactive tool on child sexual exploitation and abuse in 17 countries, based on the Violence Against Children and Youth Surveys (VACS). I coded, cleaned, and harmonized the multi-country microdata that powers the tool, and co-built it (see [credits](https://imagina.uniandes.edu.co/especiales/prevalence-csea/#creditos)).
 
 ---
 
 ## Working Papers & Reports
 
-### Prevalence and Nature of Child Sexual Exploitation and Abuse
-**Technical report (in submission).** Multi-country report based on VACS microdata from 17 countries. I coded, cleaned, and harmonized the underlying data.
+### Prevalence and Nature of Child Sexual Exploitation and Abuse (technical report, in submission)
+Multi-country report based on VACS microdata from 17 countries. I coded, cleaned, and harmonized the underlying data.
 
-### Intergenerational transmission of childhood adversity in Colombia
-**Working paper (in preparation).** Study of 163 caregiver–child dyads exploring how Adverse Childhood Experiences are transmitted to child socioemotional outcomes, using mediation analysis within a structural equation framework. Co-author.
+### Intergenerational transmission of childhood adversity in Colombia (working paper, in preparation)
+Study of 163 caregiver–child dyads exploring how Adverse Childhood Experiences are transmitted to child socioemotional outcomes, using mediation analysis within a structural equation framework. Co-author.
 
-### Prevalence and measurement of childhood adversity in Bogotá public services
-**Working paper (in preparation).** Prevalence study of 346 adolescents and young adults across 18 localities, survey-weighted to represent 1.8 million residents, introducing a participatory measurement instrument and using mediation and sensitivity analysis. Co-author.
+### Prevalence and measurement of childhood adversity in Bogotá public services (working paper, in preparation)
+Prevalence study of 346 adolescents and young adults across 18 localities, survey-weighted to represent 1.8 million residents, introducing a participatory measurement instrument and using mediation and sensitivity analysis. Co-author.
